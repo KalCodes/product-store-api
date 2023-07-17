@@ -40,5 +40,7 @@ The app defines following CRUD APIs.
     
     PUT /api/v1/products/{id}
     
+    PATCH /api/v1/products/{id}
+    
     DELETE /api/v1/products/{id}
 
