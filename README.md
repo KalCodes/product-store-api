@@ -6,7 +6,7 @@
 **1. Clone the application**
 
 ```bash
-https://github.com/givanthak/spring-boot-rest-api-tutorial.git
+https://github.com/KalCodes/product-store-api.git
 ```
 
 **2. Create Mysql database**
