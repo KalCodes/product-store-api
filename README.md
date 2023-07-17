@@ -34,9 +34,9 @@ The app defines following CRUD APIs.
 
     GET /api/v1/products
     
-    POST /api/v1/products
-    
     GET /api/v1/products/{id}
+    
+    POST /api/v1/products
     
     PUT /api/v1/products/{id}
     
