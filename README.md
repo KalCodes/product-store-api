@@ -4,8 +4,6 @@
 # Name : Kaleab Tesfaye   
 # Id : 427/12
 
-## Steps to Setup
-
 **1. Clone the application**
 
 ```bash
